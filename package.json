@@ -1,8 +1,14 @@
 {
-  "name": "",
+  "name": "azure-test-functions-webhooks",
   "version": "",
-  "description": "",
-  "scripts" : {
+  "description": "Monitor GitHub events by using a webhook with Azure Functions ",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/aruanoguate/azure-test-functions-webhooks.git"
+  },
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "func start",
     "test": "echo \"No tests yet...\""
   },
   "author": ""
